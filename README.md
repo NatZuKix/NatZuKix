@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend, backend, and full-stack developer
 -------------------------------------------
 
-my nickname is Nutnon. I am a third-year student studying in the school of Information Technology at King Mongkut's University of Technology Thonburi.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [nutthanon.than@kmutt.ac.th](mailto: nutthanon.than@kmutt.ac.th)
